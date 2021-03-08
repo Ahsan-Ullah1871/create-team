@@ -1,0 +1,13 @@
+.addBox {
+	width: 22%;
+	background: whitesmoke;
+	color: black;
+	position: fixed;
+	top: 30%;
+	right: 1%;
+	border-radius: 10px;
+	padding: 10px;
+}
+.text {
+	color: rgb(248, 145, 11);
+}

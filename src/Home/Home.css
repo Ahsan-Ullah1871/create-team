@@ -1,0 +1,11 @@
+.JumbotronParagraph {
+	text-align: center;
+	width: 60%;
+	margin: 0 auto;
+	font-family: "Roboto Condensed", sans-serif;
+}
+.homeHrLine {
+	color: grey;
+	border-bottom: 8px dotted;
+	width: 60%;
+}

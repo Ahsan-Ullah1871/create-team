@@ -1,0 +1,28 @@
+.header {
+	height: 60px;
+	font-family: "Roboto Condensed", sans-serif;
+}
+.logo {
+	font-family: "Akaya Telivigala", cursive;
+}
+.navbar a {
+	text-decoration: none;
+	width: 100px;
+	color: rgb(250, 71, 6);
+	font-size: 20px;
+	margin: 10px 15px;
+	font-family: "Playfair Display", serif;
+}
+.navbar a:hover {
+	text-decoration: none;
+	text-align: center;
+	background-color: burlywood;
+	padding: 15px;
+	border-radius: 20px;
+}
+.hrLine {
+	color: black;
+	border-bottom: 4px solid rgb(250, 193, 6);
+	border-bottom-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+}

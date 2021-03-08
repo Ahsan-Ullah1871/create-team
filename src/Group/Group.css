@@ -1,0 +1,14 @@
+.group {
+	background-color: #5f5a6a;
+	width: 70%;
+	margin: 0 auto;
+	padding: 10px;
+	color: antiquewhite;
+	font-family: "Roboto Condensed", sans-serif;
+}
+
+.thanks {
+	background-color: #6a5e6c;
+	text-align: center;
+	border-radius: 200px;
+}
